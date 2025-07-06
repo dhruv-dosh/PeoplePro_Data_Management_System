@@ -1,5 +1,5 @@
 pipeline {
-    agent { label 'projecthive' }
+    agent { label 'USM' }
 
     stages {
         stage('Checkout') {
